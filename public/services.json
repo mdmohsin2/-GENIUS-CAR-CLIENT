@@ -1,0 +1,46 @@
+[
+    {
+        "service_id": "04",
+        "title": "Single boy",
+        "img": "https://i.ibb.co/r4Z1fjT/photo-1667614909873-2cdcc45efaf1.jpg",
+        "price": "60.00",
+        "description": "If you take time being single, you'll find time is a great healer and you'll learn to let go of your past. At the same time, you can explore new places and try new experiences to work out who you are, and what kind of person would be a great match for you."
+
+    },
+    {
+        "service_id": "05",
+        "title": "Old Grandmother",
+        "img": "https://i.ibb.co/556nmsR/photo-1667382515296-74fd12d4b522.jpg",
+        "price": "70.00",
+        "description": "A grandmother is a remarkable woman. She's a wonderful combination of warmth and kindness, laughter and love. There are grandmothers out there who would move heaven and earth for their grandchildren. We should all have one person who knows how to bless us despite the evidence."
+       
+    },
+    {
+        "service_id": "01",
+        "title": "Beautiful Couple",
+        "img": "https://i.ibb.co/pP05XSK/young-woman-smiling-man-with-packets-balloons-having-fun-street-23-2148013731.jpg",
+        "price": "150.00",
+        "description": "Ideal partners value each others' interests separate from their own. They feel congenial toward and supportive of each other's overall goals in life. They are sensitive to the other's wants, desires and feelings, and place them on an equal basis with their own."
+    },
+    {
+        "service_id": "02",
+        "title": "Rain Day",
+        "img": "https://i.ibb.co/R0TWPWc/family-crossing-road-rainy-day-53876-126922.jpg",
+        "price": "110.00",
+        "description": "A rainy day is a day which cools the weather with rain showers and a refreshing breeze. It is a boon for trees, birds, animals, plants and people during summer. It rejuvenates everyone by making the climate cool and pleasant. The fruits and flowers on trees look so fresh, colourful and refreshing on a rainy day."
+    },
+    {
+        "service_id": "03",
+        "title": "Sweeper worker",
+        "img": "https://i.ibb.co/TmgG2jw/photo-1667342805059-dad517fbcad3.jpg",
+        "price": "85.00",
+        "description": "Street cleaning operatives clean pavements, roads and other public areas in towns and cities. They use special cleaning vehicles and machines, or sometimes brushes and shovels."
+    },
+    {
+        "service_id": "06",
+        "title": "Night Moon",
+        "img": "https://i.ibb.co/xmN7mq6/beautiful-shot-red-moon-with-black-night-sky-181624-29392.jpg",
+        "price": "20.00",
+        "description": "Moonlight is literally the light we can see shining from the moon, but to moonlight is to work a second job. Get it? You have to work in the moonlight because there aren't enough hours in the day. Moonlight is the reflection of the sun off the moon's surface — a clear sky and a full moon provide brilliant moonlight"
+    }
+]
